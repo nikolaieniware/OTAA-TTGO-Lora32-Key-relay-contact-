@@ -1,7 +1,6 @@
 // MIT License
-// https://github.com/gonzalocasas/arduino-uno-dragino-lorawan/blob/master/LICENSE
-// Based on examples from https://github.com/matthijskooijman/arduino-lmic
-// Copyright (c) 2015 Thomas Telkamp and Matthijs Kooijman
+// Eniware Opuen Source Accsociation 
+// Nikolai Manchev 2019
 
 #include <Arduino.h>
 #include "lmic.h"
