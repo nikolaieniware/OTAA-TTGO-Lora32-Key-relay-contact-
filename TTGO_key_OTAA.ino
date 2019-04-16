@@ -1,5 +1,5 @@
 // MIT License
-// Eniware Opuen Source Accsociation 
+// Eniware Open Source Accsociation 
 // Nikolai Manchev 2019
 
 #include <Arduino.h>
